@@ -1,2 +1,2 @@
-Line 1 from manager
+Line 1 from manager blah blah blah
 Here's another line.
